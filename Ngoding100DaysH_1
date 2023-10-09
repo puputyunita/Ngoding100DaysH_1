@@ -1,0 +1,20 @@
+public class Ngoding100DaysH_1 {
+
+    public static void main(String[] args) {
+        
+        String nama = "puput yunita";
+        String alamat = "patulana";
+        int umur = 17;
+        int tinggi = 155;
+        char jeniskelamin = 'p';
+        byte berat = 52;
+        
+        System.out.println("nama saya :" + nama);
+        System.out.println("alamt saya :" + alamat);
+        System.out.println("umur saya :" + umur);
+        System.out.println("tinggi saya :" + tinggi);
+        System.out.println("jenis kelamin saya :" + jeniskelamin);
+        System.out.println("berat :" + berat);             
+    }
+
+}
